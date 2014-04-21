@@ -1,9 +1,7 @@
-
 /**
  *
  * @author Vishal Sharma
  *    
- * 
  * Organize the extracted code samples as shown below. For example:
 
  samples/
@@ -11,8 +9,7 @@
  |   `-- foo.php
  `-- ch2
      `-- qux.php
-     * 
-     * 
+   
  * 
  */
 import java.io.BufferedWriter;
